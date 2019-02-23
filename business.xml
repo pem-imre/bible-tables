@@ -1,0 +1,25 @@
+<Process size="0">
+<L1 name="Develop Vision and Strategy" size="0">
+    <L2 name="Define the business concept and long-term vision" size="0">
+      <L3 name="Assess the external environment" size="1"/>
+      <L3 name="Survey market and determine customer needs and wants" size="1"/>
+      <L3 name="Perform internal analysis" size="1"/>
+      <L3 name="Establish strategic vision" size="1"/>
+    </L2>
+    <L2 name="Develop business strategy" size="0">
+      <L3 name="Develop overall mission statement" size="1"/>
+      <L3 name="Evaluate strategic options to achieve the objectives" size="1"/>
+      <L3 name="Select long-term business strategy" size="1"/>
+      <L3 name="Coordinate and align functional and process strategies" size="1"/>
+      <L3 name="Create organizational design" size="1"/>
+      <L3 name="Develop and set organizational goals" size="1"/>
+      <L3 name="Formulate business unit strategies" size="1"/>
+    </L2>
+    <L2 name="Manage strategic initiatives" size="0">
+      <L3 name="Develop strategic initiatives" size="1"/>
+      <L3 name="Evaluate strategic initiatives" size="1"/>
+      <L3 name="Select strategic initiatives" size="1"/>
+      <L3 name="Establish high-level measures" size="1"/>
+    </L2>
+</L1>
+</Process>

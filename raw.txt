@@ -1,0 +1,579 @@
+Adam|1|-
+  Seth|2|-
+    Enosh|3|-
+      Kenan|4|-
+        Mahalalel|5|-
+          Jared|6|-
+            Enoch|7|-
+              Methuselah|8|-
+                Lamech|9|-
+                  Noah|10|-
+                    Shem|11|s
+                      Elam|58|s
+                      Asshur|59|s
+                      Arpachshad|60|s
+                        Shelah|67|f
+                          Eber[4]|68|f
+                            Peleg[5]|69|s
+                              Reu|84|-
+                                Serug|85|-
+                                  Nahor|86|-
+                                    Terah|87|-
+                                      Abram[7]|88|-
+                                        Isaac|89|s
+                                          Esau|116|s
+                                            Eliphaz|118|s
+                                              Teman|123|s
+                                              Omar|124|s
+                                              Zephi|125|s
+                                              Gatam|126|s
+                                              Kenaz|127|s
+                                              Timna|128|s
+                                              Amalek|129|s
+                                            Reuel|119|s
+                                              Nahath|130|s
+                                              Zerah|131|s
+                                              Shammah|132|s
+                                              Mizzah|133|s
+                                            Jeush|120|s
+                                            Jalam|121|s
+                                            Korah|122|s
+                                          Israel|117|s
+                                            Reuben|143|s
+                                            Simeon|144|s
+                                              Nemuel|443|desc
+                                              Jamin|444|desc
+                                              Jarib|445|desc
+                                              Zerah|446|desc
+                                              Shaul|447|desc
+                                                Shallum|448|desc
+                                                  Mibsam|449|desc
+                                                    Mishma|450|desc
+                                                     Mishma’s descendants were his son Hammuel, his son Zaccur, and his son Shimei.
+                                            Levi|145|s
+                                            Judah|146|s
+                                              Er[17][18]|155|s
+                                              Onan[17]|156|s
+                                              Shelah[17]|157|s
+                                                Er|435|desc
+                                                  Lecah|436|f
+                                                Laadah|437|desc
+                                                  Mareshah|438|f
+                                                  Beth-ashbea[71]|439|f|hely
+                                                Jokim[72]|440|desc
+                                                Joash|441|desc
+                                                Saraph[73]|442|desc
+                                              Perez[19]|158|b
+                                                Hezron[26][29]|160|s
+                                                  Jerahmeel[8]|161|s
+                                                    Ram[8]|193|s
+                                                      Maaz|199|s
+                                                      Jamin|200|s
+                                                      Eker|201|s
+                                                    Bunah|194|s
+                                                    Oren|195|s
+                                                    Ozem|196|s
+                                                    Ahijah|197|s
+                                                    Onam|198|s
+                                                      Shammai|202|s
+                                                        Nadab|204|s
+                                                          Seled[34]|208|s
+                                                          Appaim|209|s
+                                                            Ishi|210|s
+                                                              Sheshan|211|s
+                                                                Jarha[35]|217|a
+                                                                  Attai[aka Ahlai]|212|s
+                                                                    Nathan|218|f
+                                                                      Zabad|219|f
+                                                                        Ephlal|220|f
+                                                                          Obed|221|f
+                                                                            Jehu|222|f
+                                                                              Azariah|223|f
+                                                                                Helez|224|f
+                                                                                  Eleasah|225|f
+                                                                                    Sismai|226|f
+                                                                                      Shallum|227|f
+                                                                                        Jekamiah|228|f
+                                                                                          Elishama|229|f
+                                                        Abishur[33]|205|s
+                                                          Ahban|206|s
+                                                          Molid|207|s
+                                                      Jada|203|s
+                                                        Jether[34]|213|s
+                                                        Jonathan|214|s
+                                                          Peleth|215|s
+                                                          Zaza|216|s
+                                                  Ram|162|s
+                                                    Amminadab|164|f
+                                                      Nahshon[22]|165|f
+                                                        Salma|166|f
+                                                          Boaz|167|f
+                                                            Obed|168|f
+                                                              Jesse[23]|169|f
+                                                                Eliab|170|f
+                                                                Abinadab|171|f
+                                                                Shimea|172|f
+                                                                Nethanel|173|f
+                                                                Raddai|174|f
+                                                                Ozem|175|f
+                                                                David[49]|176|f
+                                                                  Amnon[42][48][52]|269|s
+                                                                  Daniel[43][48][52]|270|s
+                                                                  Absalom[44][48][52]|280|s
+                                                                  Adonijah[45][48][52]|281|s
+                                                                  Shephatiah[46][48][52]|282|s
+                                                                  Ithream[47][48][52]|283|s
+                                                                  Shimea[50][52]|284|s
+                                                                  Shobab[50][52]|285|s
+                                                                  Nathan[50][52]|256|s
+                                                                  Solomon[50][52]|287|s
+                                                                    Rehoboam|298|s
+                                                                      Abijah|299|s
+                                                                        Asa|300|s
+                                                                          Jehoshaphat|301|s
+                                                                            Joram|302|s
+                                                                              Ahaziah|303|s
+                                                                                Joash|304|s
+                                                                                  Amaziah|305|s
+                                                                                    Azariah|306|s
+                                                                                      Jotham|307|s
+                                                                                        Ahaz|308|s
+                                                                                          Hezekiah|309|s
+                                                                                            Manasseh|310|s
+                                                                                              Amon|311|s
+                                                                                                Josiah[23]|312|s
+                                                                                                  Johanan|313|s
+                                                                                                  Jehoiakim|314|s
+                                                                                                    Jeconiah|317|s
+                                                                                                      Shealtiel(his son)[54]|319|s
+                                                                                                      Malchiram[54]|320|s
+                                                                                                      Pedaiah[54]|321|s
+                                                                                                        Zerubbabel|326|s
+                                                                                                          Meshullam|328|s
+                                                                                                          Hananiah|329|s
+                                                                                                            Pelatiah|336|s
+                                                                                                            Jeshaiah|337|s
+                                                                                                              Rephaiah|338|s
+                                                                                                                Arnan|339|s
+                                                                                                                  Obadiah|340|s
+                                                                                                                    Shecaniah|341|s
+                                                                                                                      Shemaiah[56]|342|s
+                                                                                                                        Hattush[56]|343|s
+                                                                                                                        Igal[56]|344|s
+                                                                                                                        Bariah[56]|345|s
+                                                                                                                        Neariah[56]|346|s
+                                                                                                                          Elioenai[57]|347|s
+                                                                                                                            Hodaviah[58]|351|s
+                                                                                                                            Eliashib[58]|352|s
+                                                                                                                            Pelaiah[58]|353|s
+                                                                                                                            Akkub[58]|354|s
+                                                                                                                            Johanan[58]|355|s
+                                                                                                                            Delaiah[58]|356|s
+                                                                                                                            Anani[58]|357|s
+                                                                                                                          Hizkiah[57]|349|s
+                                                                                                                          Azrikam[57]|350|s
+                                                                                                                        Shaphat[56]|347|s
+                                                                                                          Shelomith[55]|330|d|lány
+                                                                                                          Hashubah|331|s
+                                                                                                          Ohel|332|s
+                                                                                                          Berechiah|333|s
+                                                                                                          Hasadiah|334|s
+                                                                                                          Jushab-hesed|335|s
+                                                                                                        Shimei|327|s
+                                                                                                      Shenazzar[54]|322|s
+                                                                                                      Jekamiah[54]|323|s
+                                                                                                      Hoshama[54]|324|s
+                                                                                                      Nedabiah[54]|325|s
+                                                                                                    Zedekiah|318|s
+                                                                                                  Zedekiah|315|s
+                                                                                                  Shallum|316|s
+                                                                  Ibhar[51][52]|288|s
+                                                                  Elishama[51][52]|289|s
+                                                                  Eliphelet[51][52]|290|s
+                                                                  Nogah[51][52]|291|s
+                                                                  Nepheg[51][52]|292|s
+                                                                  Japhia[51][52]|293|s
+                                                                  Elishama[51][52]|294|s
+                                                                  Eliada[51][52]|295|s
+                                                                  Eliphelet[51][52]|296|s
+                                                                  Tamar[53]|297|d|lány
+                                                                Zeruiah[24]|177|f|lány
+                                                                  Abishai|179|s
+                                                                  Joab|180|s
+                                                                  Asahel|181|s
+                                                                Abigail[24]|178|f|lány
+                                                                  Amasa[25]|182|b
+                                                  Chelubai[26]|163|s
+                                                    Jesher|183|s
+                                                    Shobab|184|s
+                                                    Ardon|185|s
+                                                    Hur[27]|186|b
+                                                      Uri|187|s
+                                                        Bezalel|188|s
+                                                      Shobal|259|s
+                                                        Kiriath-jearim[40]|260|s
+                                                        Haroeh[59]|264|s
+                                                          Jahath[60]|358|f
+                                                              Ahumai[60]|359|f
+                                                              Lahad[60]|360|f
+                                                        half of the Menuhoth|265|s|nép
+                                                      Salma[41]|260|s
+                                                        Bethlehem|261|f
+                                                        the Netophathites|266|s
+                                                        Atroth-beth-joab|267|s
+                                                        half of the Manahathites, the Zorites|268|s
+                                                      Hareph|262|s
+                                                        Beth-gader|263|f
+                                                      ---------------------------
+                                                      Etam[61]|361|--
+                                                        Jezreel[61]|362|s
+                                                        Ishma[61]|363|s
+                                                        Idbash[61]|364|s
+                                                        Hazzelelponi[61]|365|d|lány
+                                                      Penuel[61]|366|--
+                                                        Gedor[61]|367|f
+                                                      Ezer[61]|368|--
+                                                        Hushah[61]|368|f
+                                                      ---------------------------
+                                                    Ashhur[32][62]|191|b
+                                                      Tekoa|192|f|nép?
+                                                      Ahuzzam[63]|369|s
+                                                      Hepher[63]|370|s
+                                                      Temeni[63]|371|s
+                                                      Haahashtari[63]|372|s|nép?
+                                                      Zereth[64]|373|s
+                                                      Izhar[64]|374|s
+                                                      Ethnan[64]|375|s
+                                                      ------------------------ezek talán nem Asshur további utódai, hanem Júda más ágú leszármazottai.
+                                                      Koz[64]|376|--
+                                                        Anub|377|f
+                                                        Zobebah|378|f
+                                                        Harum|379|f
+                                                          families of Aharhel|380|s
+                                                      Jabez[65]|381|--
+                                                      Chelub[66]|382|--
+                                                        Mehir[66]|384|f
+                                                          Eshton[66]|385|f
+                                                            Beth-rapha[66]|387|f
+                                                             Paseahw[66]|388|f
+                                                             Tehinnah[66]|389|f
+                                                             Ir-nahash[66]|390|f
+                                                      Shuhah|383|--
+                                                      Kenaz|391|--
+                                                        Othniel|392|desc
+                                                          Hathath|394|desc
+                                                          Meonothai|395|desc
+                                                            Ophrah|396|f
+                                                        Seraiah|393|desc
+                                                          Joab|397|f
+                                                            Ge-harashim[67]|398|f
+                                                      Jephunneh|400|--
+                                                        Caleb|399|s
+                                                          Iru|401|s
+                                                          Elah|402|s
+                                                            Kenaz|404|s
+                                                          Naam|403|s
+                                                      Jehallelel|405|--
+                                                        Ziph|406|s
+                                                        Ziphah|407|s
+                                                        Tiria|408|s
+                                                        Asarel|409|s
+                                                      Ezrah|410|--
+                                                        Jether|411|desc
+                                                        Mered|412|desc
+                                                          Miriam[69]|415|b
+                                                          Shammai[69]|416|b
+                                                          Ishbah[69]|417|b
+                                                            Eshtemoa[69]|418|f
+                                                              Jered[68][69]|419|b
+                                                                Gedor[69]|420|b
+                                                              Heber[68][69]|421|b
+                                                                Soco[69]|422|f
+                                                              Jekuthiel[68][69]|423|f
+                                                                Zanoah[69]|424|f
+                                                        Epher|413|desc
+                                                        Jalon|414|desc
+                                                      Hodiah[70]|425|--
+                                                        Keilah the Garmite|426|f
+                                                        Eshtemoa the Maacathite|427|f
+                                                      Shimon|428|--
+                                                        Amnon|429|desc
+                                                        Rinnah|430|desc
+                                                        Ben-hanan|431|desc
+                                                        Tilon|432|desc
+                                                      Ishi|433|--
+                                                        Zoheth|434|desc
+                                                        Ben-zoheth|435|desc
+                                                      ----------------------------------
+                                                    Mareshah[8]|230|s
+                                                      Ziph|231|f
+                                                      Hebron|232|s
+                                                        Korah|233|s
+                                                        Tappuah|234|s
+                                                        Rekem|235|s
+                                                          Shammai|239|s
+                                                            Maon[1]|240|s
+                                                              Beth-zur|241|f
+                                                        Shema|236|s
+                                                          Raham|237|f
+                                                            Jorkeam|238|s
+                                                    Haran[36]|242|b
+                                                      Gazez|244|f
+                                                    Moza[36]|243|b
+                                                    Gazez[36]|243|b
+                                                    Regem[37]|245|s
+                                                    Jotham[37]|264|s
+                                                    Geshan[37]|247|s
+                                                    Pelet[37]|248|s
+                                                    Ephah[37]|249|s
+                                                    Shaaph[37]|250|s
+                                                    Sheber[38]|251|b
+                                                    Tirhanah[38]|252|b
+                                                    Shaaph[38]|253|b
+                                                      Madmannah|254|f
+                                                    Sheva|255|b
+                                                      Machbenah|256|f
+                                                      Gibe|257|f
+                                                    Achsah[39]|258|d|lány
+                                                  Segub[31]|189|b
+                                                    Jair[30][31]|190|b
+                                                Hamul|161|s
+                                              Zerah[19]|159|b
+                                                Zimri[20]|162|s
+                                                  Achar[21]|166|s
+                                                Ethan|162|s
+                                                  Azariah|167|s
+                                                Heman|163|s
+                                                Calcol|164|s
+                                                Dara|165|s
+                                            Issachar|147|s
+                                            Zebulun|148|s
+                                            Dan|149|s
+                                            Joseph|150|s
+                                            Benjamin|151|s
+                                            Naphtali|152|s
+                                            Gad|153|s
+                                            Asher|154|s
+                                        Ishmael[8]|90|s
+                                          Nebaioth[9][10]|91|s
+                                          Kedar[10]|92|s
+                                          Adbeel[10]|93|s
+                                          Mibsam[10]|94|s
+                                          Mishma[10]|95|s
+                                          Dumah[10]|96|s
+                                          Massa[10]|97|s
+                                          Hadad[10]|98|s
+                                          Tema[10]|99|s
+                                          Jetur[10]|100|s
+                                          Naphish[10]|101|s
+                                          Kedemah[10]|102|s
+                                        Zimran[11]|103|s
+                                        Jokshan[11]|104|s
+                                          Sheba[11]|109|s
+                                          Dedan[11]|110|s
+                                        Medan[11]|105|s
+                                        Midian[11]|106|s
+                                          Ephah[11]|111|s
+                                          Epher[11]|112|s
+                                          Hanoch[11]|113|s
+                                          Abida[11]|114|s
+                                          Eldaah[11]|115|s
+                                        Ishbak[11]|107|s
+                                        Shuah[11]|108|s
+                            Joktan|70|s
+                              Almodad[6]|71|f
+                              Sheleph[6]|72|f
+                              Hazarmaveth[6]|73|f
+                              Jerah[6]|74|f
+                              Hadoram[6]|75|f
+                              Uzal[6]|76|f
+                              Diklah[6]|77|f
+                              Ebal[6]|78|f
+                              Abimael[6]|79|f
+                              Sheba[6]|80|f
+                              Ophir[6]|81|f
+                              Havilah[6]|82|f
+                              Jobab[6]|83|f
+                      Lud|61|s
+                      Aram|62|s
+                        Uz|63|s
+                        Hul|64|s
+                        Gether|65|s
+                        Meshech|66|s
+                    Ham|12|s
+                      Cush|28|s
+                        Seba|32|s
+                        Havilah|33|s
+                        Sabta|34|s
+                        Raama|35|s
+                          Sheba|37|s
+                          Dedan|38|s
+                        Sabteca|36|s
+                        Nimrod[1]|39|f
+                      Mizraim|29|s
+                        the Ludim|40|f
+                        the Anamim|41|f
+                        the Lehabim|42|f
+                        the Naphtuhim|43|f
+                        the Pathrusim|44|f
+                        the Casluhim[2]|45|f
+                        the Caphtorim|46|f
+                      Put|30|s
+                      Canaan|31|s
+                        Sidon[3]|47|f
+                        Heth|48|f
+                        the Jebusites|49|f
+                        the Amorites|50|f
+                        the Girgashites|51|f
+                        the Hivites|52|f
+                          Seir[16]|134|--
+                            Lotan|135|s
+                              Hori|123|s
+                              Homam|124|s
+                              Timna[12]|125|s
+                            Shobal|136|s
+                              Alian|126|s
+                              Manahath|127|s
+                              Ebal|128|s
+                              Shephi|129|s
+                              Onam|130|s
+                            Zibeon|137|s
+                              Aiah|131|s
+                              Anah|132|s
+                            Anah|138|s 
+                              Dishon|133|s
+                                Hamran|134|s
+                                Eshban|135|s
+                                Ithran|136|s
+                                Cheran|137|s
+                            Dishon[13]|139|s
+                            Ezer|140|s
+                              Bilhan|138|s
+                              Zaavan|139|s
+                              Jaakan|140|s
+                            Dishan|141|s
+                              Uz|141|s
+                              Aran|142|s
+                        the Archites|53|f
+                        the Sinites|54|f
+                        the Arvadites|55|f
+                        the Zemarites|56|f
+                        the Hamathites|57|f
+                    Japheth|13|s
+                      Gomer|14|s
+                        Ashkenaz|21|s
+                        Diphath|22|s
+                        Togarmah|23|s
+                      Magog|15|s
+                      Madai|16|s
+                      Javan|17|s
+                        Elishah|24|s
+                        Tarshish|25|s
+                        Kittim|26|s
+                        Rodanim|27|s
+                      Tubal|18|s
+                      Meshech|19|s
+                      Tiras|20|s
+
+
+
+[1]He became the first powerful ruler on the earth.
+[2]From whom the Philistines descended
+[3]His (Cannaan's) firstborn
+[4]Fathered two sons
+[5](His name was given) because the earth was divided during his lifetime
+[6]All of these were Joktan’s descendants.
+[7]That is, Abraham.
+[8]Firstborn
+[9]Firstborn
+[10]These are the Ishmaelites.
+[11]born to Keturah, Abraham’s mistress
+[12]Lotan’s sister
+[14]His city was named Dinhabah
+[15]She was the daughter of Matred, who was the daughter of Me-zahab.
+[16]Here’s a list of kings who reigned in the land of Edom before any king reigned over the Israelis
+  1 Beor’s son Bela[14]
+  2 Zerah’s son Jobab from Bozrah
+  3 Husham from the land of the Temanites
+  4 Bedad’s son Hadad, who defeated Midian in the country of Moab. His city was named Avith.
+  5 Samlah from Masrekah
+  6 Shaul from Rehoboth on the Euphrates River
+  7 Achbor’s son Baal-hanan
+  8 Hadad. His city was named Pai, and his wife’s name was Mehetabel[15]
+  The chiefs of Edom included the chiefs of Timna[Son of Esau], Aliah, Jetheth, Oholibamah, Elah, Pinon, Kenaz, Teman, Mibzar, Magdiel, and Iram—these are the clans of Edom.
+[17]Judah’s three sons (that) were born to him through Bath-shua, a Canaanite.
+[18]Judah’s firstborn. Became wicked in the Lord’s sight, so he put him to death.
+[19]Judah’s daughter-in-law Tamar also bore him (these sons)
+[20](a.k.a Carmi. See Joshua 7:1)
+[21]Who became Israel’s troublemaker by transgressing the Lord’s commandment regarding things that were to be destroyed.
+[22]who was leader of the descendants of Judah.
+[23](The order of his sons are explicitly stated as on the chart)
+[24]Daughters of Jesse
+[25]Whose father was Jether the Ishmaelite.
+[26](a.k.a Caleb. he) had children by his wife Azubah and by Jerioth.
+[27]When Azubah died, Caleb married Ephrath (a.ka.a Ephrathah), who bore him Hur (firstborn)
+[28]Jerahmeel also had another wife, whose name was Atarah; she was the mother of Onam.
+[29]Later (This is stated after Chelubai's family is described), Hezron married the daughter of Machir, who had fathered Gilead. He married her when he was years 60 old, and she bore him Segub.
+[30]had towns in the land of Gilead. But Geshur and Aram took towns from Gilead, including Havvoth-jair and Kenath, along with their villages. 
+[31]These were descendants of Machir, who fathered Gilead.
+[32]After Hezron died in Caleb-ephrathah, Abijah wife of Hezron bore him Ashhur
+[33]Abishur’s wife was named Abihail
+[34]died childless
+[35]Sheshan had no sons, only daughters. However, Sheshan had an Egyptian slave named Jarha. So Sheshan gave his daughter in marriage to his slave Jarha, and she bore him Attai.
+[36]Caleb’s mistress Ephah also bore (him)
+[37]Jahdai’s (possibly other mistress of Caleb) descendants
+[38]Caleb’s mistress Maacah bore (him)
+[39]Caleb’s daughter
+[40]The families of Kiriath-jearim included the Ithrites, the Puthites, the Shumathites, and the Mishraites. The Zorathites and the Eshtaolites came from them.
+[41]The families of the scribes who lived at Jabez (Probably among the tribes of Judah) included the Tirathites, the Shimeathites, and the Sucathites. These are the Kenites who came from Hammath, who fathered the house of Rechab.
+[42](his mother is) Ahinoam the Jezreelite
+[43](his mother is) Abigail the Carmelite
+[44](his mother is) Maacah daughter of King Talmai of Geshur
+[45](his mother is) Haggith
+[46](his mother is) Abital
+[47](his mother is) Eglah
+[48]These six (born in this order, Amnon being David's firstborn) were born to him in Hebron, where he reigned for seven years and six months.
+[49]He reigned 33 years in Jerusalem
+[50]These four children were born to David by Bath-shua daughter of Ammiel while he was living in Jerusalem
+[51]followed by nine more
+[52]All these were David’s sons, besides children born to his mistresses.
+[53]was their (David's sons) sister.
+[54]who was taken captive to Babylon
+[55] Their (Zerubbabel's sons) sister
+[56]Six sons of Shemaiah
+[57]Three sons of Neariah
+[58]Seven sons of Elioenai
+[59](a.k.a Reaiah)
+[60]These were the clans of the Zorathites.
+[61]These were the descendants of Hur, Ephrathah’s firstborn, who fathered Bethlehem
+[62]had two wives, Helah and Naarah
+[63]Naarah bore him (Ashhur) these sons
+[64]The sons of Helah (Ashhur's wife)
+[65]Jabez enjoyed more honor than his relatives —his mother named him Jabez, she said, “because I bore him in pain.” Later on, Jabez called on the God of Israel, asking him,[e] “…whether you would bless me again and again, enlarge my territory, keep your power with me, keep me from evil, and keep me from harm!” And God granted what he had requested.
+[66]These are the men of Recah.
+[67](called Ge-harashim) because they became artisans.
+[68]His Judean wife bore him
+[69]These are the descendants of Bithiah, daughter of Pharaoh, whom Mered married
+[70](His) wife (is) Naham’s sister
+[71](more precizely) the families who belonged to the guild of linen workers at Beth-ashbea
+[72]the men of Kozeba
+[73]Who ruled over Moab and Jashubi-lehem. ???Kire vonatkozik??? These records are ancient. These people were potters who lived in Netaim and Gederah in service to their king, who lived there.
+
+
+
+
+
+27Shimei had 16 sons and six daughters, but his relatives did not have many children, nor did their entire family multiply like the Judeans did. 28They lived in Beer-sheba, Moladah, Hazar-shual, 29Bilhah, Ezem, Tolad, 30Bethuel, Hormah, Ziklag, 31Beth-marcaboth, Hazar-susim, Beth-biri, and Shaaraim. These were their cities until David began to reign.
+
+32Their cities were Etam, Ain, Rimmon, Tochen, and Ashan, for a total ofo five cities, 33along with all their settlements that surrounded these cities as far as Baal—this is their settlement history.p
+
+They kept this genealogical record for themselves: 34Meshobab, Jamlech, Amaziah’s son Joshah, 35Joel, Joshibiah’s son Jehu (who was the grandson of Seraiah and great-grandson of Asiel), 36Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, Benaiah, 37Shiphi’s son Ziza (who was the grandson of Shiphi, who was fathered by Allon, who was fathered by Jedaiah, who was fathered by Shimri, who was fathered by Shemaiah)— 38these people,q enumerated by name, were leaders in their respective families, and their clans grew to be very abundant.
+
+39They journeyed as far as the entrance of Gedor on the east side of the valley in order to find pasture for their flocks. 40They discovered abundant and excellent grazing lands there, where the land was very broad, secure, and tranquil, because the former inhabitants there were descendants of Ham. 41Later on, during the reignr of King Hezekiah of Judah, these people,s enumerated by name, came and attacked both their homest and the Meunim who had settled there and who remain exterminated to this day. They settled down there, taking their place, because there was pasture there for their flocks. 42Some of them—that is, 500 Simeonite men—went to Mount Seir.u Under the leadership of Ishi’s sons Pelatiah, Neariah, Rephaiah, and Uzziel, 43they destroyed the survivors of the Amalekites who had escaped, and they have lived there to this day.
+
+
+The descendants of Mareshah, who fathered Hebron, were as follows:
+Mareshah
+  
+
+[1](One of) Shammai’s descendants

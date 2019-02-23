@@ -1,0 +1,68 @@
+0 info it worked if it ends with ok
+1 verbose cli [ '/usr/bin/nodejs', '/usr/bin/npm', 'install', 'tabdown' ]
+2 info using npm@3.5.2
+3 info using node@v4.2.6
+4 silly loadCurrentTree Starting
+5 silly install loadCurrentTree
+6 silly install readLocalPackageData
+7 silly fetchPackageMetaData tabdown
+8 silly fetchNamedPackageData tabdown
+9 silly mapToRegistry name tabdown
+10 silly mapToRegistry using default registry
+11 silly mapToRegistry registry https://registry.npmjs.org/
+12 silly mapToRegistry uri https://registry.npmjs.org/tabdown
+13 verbose request uri https://registry.npmjs.org/tabdown
+14 verbose request no auth needed
+15 info attempt registry request try #1 at 1:29:05 PM
+16 verbose request id 1d40a701d658411e
+17 http request GET https://registry.npmjs.org/tabdown
+18 http 200 https://registry.npmjs.org/tabdown
+19 verbose headers { date: 'Sun, 03 Feb 2019 12:29:06 GMT',
+19 verbose headers   'content-type': 'application/json; charset=UTF-8',
+19 verbose headers   'transfer-encoding': 'chunked',
+19 verbose headers   connection: 'keep-alive',
+19 verbose headers   'set-cookie': [ '__cfduid=d5dca09b270e5e7658e7eccbf0e7027b41549196945; expires=Mon, 03-Feb-20 12:29:05 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+19 verbose headers   'cf-cache-status': 'MISS',
+19 verbose headers   'cache-control': 'max-age=300',
+19 verbose headers   'cf-ray': '4a34e6aedd9a7edc-BUD',
+19 verbose headers   etag: 'W/"6be439a28af7457e0b73c16812f01f0d"',
+19 verbose headers   'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+19 verbose headers   'last-modified': 'Sun, 27 May 2018 18:50:54 GMT',
+19 verbose headers   vary: 'accept-encoding, accept',
+19 verbose headers   server: 'cloudflare',
+19 verbose headers   'content-encoding': 'gzip' }
+20 silly get cb [ 200,
+20 silly get   { date: 'Sun, 03 Feb 2019 12:29:06 GMT',
+20 silly get     'content-type': 'application/json; charset=UTF-8',
+20 silly get     'transfer-encoding': 'chunked',
+20 silly get     connection: 'keep-alive',
+20 silly get     'set-cookie': [ '__cfduid=d5dca09b270e5e7658e7eccbf0e7027b41549196945; expires=Mon, 03-Feb-20 12:29:05 GMT; path=/; domain=.registry.npmjs.org; HttpOnly' ],
+20 silly get     'cf-cache-status': 'MISS',
+20 silly get     'cache-control': 'max-age=300',
+20 silly get     'cf-ray': '4a34e6aedd9a7edc-BUD',
+20 silly get     etag: 'W/"6be439a28af7457e0b73c16812f01f0d"',
+20 silly get     'expect-ct': 'max-age=604800, report-uri="https://report-uri.cloudflare.com/cdn-cgi/beacon/expect-ct"',
+20 silly get     'last-modified': 'Sun, 27 May 2018 18:50:54 GMT',
+20 silly get     vary: 'accept-encoding, accept',
+20 silly get     server: 'cloudflare',
+20 silly get     'content-encoding': 'gzip' } ]
+21 verbose get saving tabdown to /home/imre/.npm/registry.npmjs.org/tabdown/.cache.json
+22 verbose makeDirectory /home/imre/.npm creation not in flight; initializing
+23 silly makeDirectory /home/imre/.npm uid: 1000 gid: 1000
+24 verbose stack TypeError: Cannot convert undefined or null to object
+24 verbose stack     at Function.keys (native)
+24 verbose stack     at pickVersionFromRegistryDocument (/usr/share/npm/lib/fetch-package-metadata.js:121:29)
+24 verbose stack     at /usr/share/npm/node_modules/iferr/index.js:13:50
+24 verbose stack     at /usr/share/npm/lib/utils/pulse-till-done.js:19:8
+24 verbose stack     at saved (/usr/share/npm/lib/cache/caching-client.js:168:7)
+24 verbose stack     at /usr/share/npm/node_modules/graceful-fs/polyfills.js:210:7
+24 verbose stack     at FSReqWrap.oncomplete (fs.js:82:15)
+25 verbose cwd /home/imre/Documents/bible-tables
+26 error Linux 4.8.0-36-generic
+27 error argv "/usr/bin/nodejs" "/usr/bin/npm" "install" "tabdown"
+28 error node v4.2.6
+29 error npm  v3.5.2
+30 error Cannot convert undefined or null to object
+31 error If you need help, you may report this error at:
+31 error     <https://github.com/npm/npm/issues>
+32 verbose exit [ 1, true ]
