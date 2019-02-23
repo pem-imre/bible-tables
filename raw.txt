@@ -46,10 +46,28 @@ Adam|1|-
                                               Jarib|445|desc
                                               Zerah|446|desc
                                               Shaul|447|desc
-                                                Shallum|448|desc
-                                                  Mibsam|449|desc
-                                                    Mishma|450|desc
-                                                     Mishma’s descendants were his son Hammuel, his son Zaccur, and his son Shimei.
+                                                Shallum|448|s
+                                                  Mibsam|449|s
+                                                    Mishma|450|s
+                                                     Hammuel|451|s
+                                                      Zaccur|452|s
+                                                        Shimei[74]|453|s
+                                                          Meshobab|454|s
+                                                          Jamlech|455|s
+                                                          Amaziah|456|s
+                                                            Joshah|457|s
+                                                          Joel|458|s
+                                                          Joshibiah|459|s
+                                                            Jehu[75]|460|s
+                                                          Elioenai|461|s
+                                                          Jaakobah|462|s
+                                                          Jeshohaiah|463|s
+                                                          Asaiah|464|s
+                                                          Adiel|465|s
+                                                          Jesimiel|466|s
+                                                          Benaiah|467|s
+                                                          Shiphi|468|s
+                                                            Ziza[76]|469|gs
                                             Levi|145|s
                                             Judah|146|s
                                               Er[17][18]|155|s
@@ -558,22 +576,20 @@ Adam|1|-
 [71](more precizely) the families who belonged to the guild of linen workers at Beth-ashbea
 [72]the men of Kozeba
 [73]Who ruled over Moab and Jashubi-lehem. ???Kire vonatkozik??? These records are ancient. These people were potters who lived in Netaim and Gederah in service to their king, who lived there.
+[74]Shimei had 16 sons and six daughters, but his relatives did not have many children, nor did their entire family multiply like the Judeans did. They lived in Beer-sheba, Moladah, Hazar-shual, Bilhah, Ezem, Tolad, Bethuel, Hormah, Ziklag, Beth-marcaboth, Hazar-susim, Beth-biri, and Shaaraim. These were their cities until David began to reign. 32Their cities were Etam, Ain, Rimmon, Tochen, and Ashan, for a total ofo five cities, 33along with all their settlements that surrounded these cities as far as Baal—this is their settlement history. They kept this genealogical record for themselves these people enumerated by name, were leaders in their respective families, and their clans grew to be very abundant. They journeyed as far as the entrance of Gedor on the east side of the valley in order to find pasture for their flocks. They discovered abundant and excellent grazing lands there, where the land was very broad, secure, and tranquil, because the former inhabitants there were descendants of Ham. Later on, during the reign of King Hezekiah of Judah, these people, enumerated by name, came and attacked both their homes and the Meunim who had settled there and who remain exterminated to this day. They settled down there, taking their place, because there was pasture there for their flocks. Some of them—that is, 500 Simeonite men—went to Mount Seir. Under the leadership of Ishi’s sons Pelatiah, Neariah, Rephaiah, and Uzziel, they destroyed the survivors of the Amalekites who had escaped, and they have lived there to this day.
+[75]who was the grandson of Seraiah and great-grandson of Asiel
+[76]who was the grandson of Shiphi, who was fathered by Allon, who was fathered by Jedaiah, who was fathered by Shimri, who was fathered by Shemaiah
 
 
-
-
-
-27Shimei had 16 sons and six daughters, but his relatives did not have many children, nor did their entire family multiply like the Judeans did. 28They lived in Beer-sheba, Moladah, Hazar-shual, 29Bilhah, Ezem, Tolad, 30Bethuel, Hormah, Ziklag, 31Beth-marcaboth, Hazar-susim, Beth-biri, and Shaaraim. These were their cities until David began to reign.
-
-32Their cities were Etam, Ain, Rimmon, Tochen, and Ashan, for a total ofo five cities, 33along with all their settlements that surrounded these cities as far as Baal—this is their settlement history.p
-
-They kept this genealogical record for themselves: 34Meshobab, Jamlech, Amaziah’s son Joshah, 35Joel, Joshibiah’s son Jehu (who was the grandson of Seraiah and great-grandson of Asiel), 36Elioenai, Jaakobah, Jeshohaiah, Asaiah, Adiel, Jesimiel, Benaiah, 37Shiphi’s son Ziza (who was the grandson of Shiphi, who was fathered by Allon, who was fathered by Jedaiah, who was fathered by Shimri, who was fathered by Shemaiah)— 38these people,q enumerated by name, were leaders in their respective families, and their clans grew to be very abundant.
-
-39They journeyed as far as the entrance of Gedor on the east side of the valley in order to find pasture for their flocks. 40They discovered abundant and excellent grazing lands there, where the land was very broad, secure, and tranquil, because the former inhabitants there were descendants of Ham. 41Later on, during the reignr of King Hezekiah of Judah, these people,s enumerated by name, came and attacked both their homest and the Meunim who had settled there and who remain exterminated to this day. They settled down there, taking their place, because there was pasture there for their flocks. 42Some of them—that is, 500 Simeonite men—went to Mount Seir.u Under the leadership of Ishi’s sons Pelatiah, Neariah, Rephaiah, and Uzziel, 43they destroyed the survivors of the Amalekites who had escaped, and they have lived there to this day.
-
-
-The descendants of Mareshah, who fathered Hebron, were as follows:
-Mareshah
-  
 
 [1](One of) Shammai’s descendants
+
+
+
+1Here is a record ofa the descendants of Reuben, Israel’s firstborn. (He was the firstborn, but because he defiled his father’s marriage bed, his birthright was transferred to the descendants of Israel’s son Joseph. As a result, Reuben is not enrolled in the genealogy according to the birthright. 2Even though Judah became prominent among his relatives—that is, the Commander-in-chiefb will be his descendant—nevertheless the right of the firstborn went to Joseph.)
+
+3The descendants of Reuben, Israel’s firstborn, included Hanoch, Pallu, Hezron, and Carmi.
+
+4Joel’s descendants were his son Shemaiah, his son Gog, his son Shimei, 5his son Micah, his son Reaiah, his son Baal, 6and his son Beerah, whom King Tiglath-pileser of Assyria carried away into exile, and who was a governor of the descendants of Reuben.
+
+7His relatives, listed by families when the genealogy was enrolled according to their generations, includedc the chief, Jeiel, Zechariah, 8and Azaz’s son Bela, grandson of Shema, and great-grandson of Joel, who lived in Aroer, near Nebo and Baal-meon. 9He also lived eastward as far as the entrance to the wilderness this side of the Euphrates River,d because their cattle had increased in the territory of Gilead. 10During the reigne of Saul they declared war on the Hagrites, who fell in battle by their hand. They lived in their tents throughout all of east Gilead.
