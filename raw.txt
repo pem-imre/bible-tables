@@ -39,7 +39,20 @@ Adam|1|-
                                             Jalam|121|s
                                             Korah|122|s
                                           Israel|117|s
-                                            Reuben|143|s
+                                            Reuben[77][86][89]|143|s
+                                              Hanoch|470|desc.incl
+                                              Pallu|471|desc.incl
+                                              Hezron|472|desc.incl
+                                              Carmi|473|desc.incl
+                                              Joel|474|desc.incl
+                                                ----------------------Joel's descendants inlcuded the following line
+                                                Shemaiah|475|s
+                                                  Gog|476|s
+                                                    Shimei|477|s
+                                                      Micah|478|s
+                                                        Reaiah|479|s
+                                                          Baal|780|s
+                                                            Beerah|481|s
                                             Simeon|144|s
                                               Nemuel|443|desc
                                               Jamin|444|desc
@@ -330,7 +343,8 @@ Adam|1|-
                                                         Tappuah|234|s
                                                         Rekem|235|s
                                                           Shammai|239|s
-                                                            Maon[1]|240|s
+                                                            ------------desc included the following line
+                                                            Maon|240|s
                                                               Beth-zur|241|f
                                                         Shema|236|s
                                                           Raham|237|f
@@ -368,9 +382,33 @@ Adam|1|-
                                             Zebulun|148|s
                                             Dan|149|s
                                             Joseph|150|s
+                                              Manasseh[86][87]|496|--
+                                                Epher[88]|497|--
+                                                Ishi[88]|498|--
+                                                Eliel[88]|499|--
+                                                Azriel[88]|500|--
+                                                Jeremiah[88]|501|--
+                                                Hodaviah[88]|502|--
+                                                Jahdiel[88]|503|--
                                             Benjamin|151|s
                                             Naphtali|152|s
-                                            Gad|153|s
+                                            Gad[79][86][89]|153|s
+                                              --------desc.included
+                                              Joel[80]|482|desc
+                                              Shapham[81]|483|desc
+                                              Janai and Shaphat[82]|484|desc
+                                                -----------desc.included
+                                                Michael[83]|485|rel
+                                                Meshullam[83]|486|rel
+                                                Sheba[83]|487|rel
+                                                Jorai[83]|488|rel
+                                                Jacan[83]|489|rel
+                                                Zia[83]|490|rel
+                                                Eber[83]|491|rel
+                                              Huri|492|--
+                                                Abihail[84]|493|s
+                                                  Abdiel|494|desc
+                                                    Ahi[85]|495|s
                                             Asher|154|s
                                         Ishmael[8]|90|s
                                           Nebaioth[9][10]|91|s
@@ -579,17 +617,17 @@ Adam|1|-
 [74]Shimei had 16 sons and six daughters, but his relatives did not have many children, nor did their entire family multiply like the Judeans did. They lived in Beer-sheba, Moladah, Hazar-shual, Bilhah, Ezem, Tolad, Bethuel, Hormah, Ziklag, Beth-marcaboth, Hazar-susim, Beth-biri, and Shaaraim. These were their cities until David began to reign. 32Their cities were Etam, Ain, Rimmon, Tochen, and Ashan, for a total ofo five cities, 33along with all their settlements that surrounded these cities as far as Baal—this is their settlement history. They kept this genealogical record for themselves these people enumerated by name, were leaders in their respective families, and their clans grew to be very abundant. They journeyed as far as the entrance of Gedor on the east side of the valley in order to find pasture for their flocks. They discovered abundant and excellent grazing lands there, where the land was very broad, secure, and tranquil, because the former inhabitants there were descendants of Ham. Later on, during the reign of King Hezekiah of Judah, these people, enumerated by name, came and attacked both their homes and the Meunim who had settled there and who remain exterminated to this day. They settled down there, taking their place, because there was pasture there for their flocks. Some of them—that is, 500 Simeonite men—went to Mount Seir. Under the leadership of Ishi’s sons Pelatiah, Neariah, Rephaiah, and Uzziel, they destroyed the survivors of the Amalekites who had escaped, and they have lived there to this day.
 [75]who was the grandson of Seraiah and great-grandson of Asiel
 [76]who was the grandson of Shiphi, who was fathered by Allon, who was fathered by Jedaiah, who was fathered by Shimri, who was fathered by Shemaiah
+[77]Israel’s firstborn. (He was the firstborn, but because he defiled his father’s marriage bed, his birthright was transferred to the descendants of Israel’s son Joseph. As a result, Reuben is not enrolled in the genealogy according to the birthright. Even though Judah became prominent among his relatives—that is, the Commander-in-chief will be his descendant—nevertheless the right of the firstborn went to Joseph.)
+[78]whom King Tiglath-pileser of Assyria carried away into exile, and who was a governor of the descendants of Reuben. His relatives, listed by families when the genealogy was enrolled according to their generations, included the chief, Jeiel, Zechariah, and Azaz’s son Bela, grandson of Shema, and great-grandson of Joel, who lived in Aroer, near Nebo and Baal-meon. He also lived eastward as far as the entrance to the wilderness this side of the Euphrates River, because their cattle had increased in the territory of Gilead. During the reigne of Saul they declared war on the Hagrites, who fell in battle by their hand. They lived in their tents throughout all of east Gilead.
+[79]Gad’s descendants lived beside them (tribe of Reuben) in the land of Bashan as far as Salecah. (...) They lived in Gilead, in Bashan and its villages, and in all the surrounding suburbsi of Sharon as far as their borders. All of them were enrolled by genealogies during the reignj of King Jotham of Judah and during the reignk of King Jeroboam of Israel.
+[80]Their (Gad's descendats) chief
+[81]their second in command
+[82]who livedh in Bashan. 
+[83]Their (Janai and Shaphat) seven relatives, according to the households of their clans, included (these)
+[84]who was fathered by Jaroah, who was fathered by Gilead, who was fathered by Michael, who was fathered by Jeshishai, who was fathered by Jahdo, and who was fathered by Buz
+[85]who was the grandson of Guni, was chief in their clan.
+[86]The descendants of Reuben, the descendants of Gad, and the half-tribe of Manasseh produced 44,700 valiant soldiers expert in shield, sword, and bow. Trained in warfare, they were equipped to serve at a moment’s notice. They fought in battle against the Hagrites, Jetur, Naphish, and Nodab. When they received assistance against them, the Hagrites and all of their allies were handed over to their control, because they cried out to God during the battle. He honored their entreaty, because they had placed their trust in him. They captured 50,000 camels, 250,000 sheep, 2,000 donkeys, and 100,000 war captives from their possessions. Many fell slain, because the battle’s outcome was directed by God. They lived in their territoryl until the exile.
+[87]The half-tribe of Manasseh lived in the land, spread out from Bashan to Baal-hermon, includingm Senir and Mount Hermon
+[88]leaders of their (half-tribe of Manasseh) clans. (...) They were mighty warriors, well known men, and leaders of their clans. But they were unfaithful to the God of their ancestors by prostituting themselves to the gods of the peoples of the land, whom God had exterminated right in front of them. So the God of Israel incited King Pul of Assyria (also known aso King Tiglath-pileser of Assyria), who took them prisoner and brought the descendants of Reuben, the descendants of Gad, and the half-tribe of Manasseh to Halah, Habor, Hara, and to the Gozan River, where they remain to this day.
+[89]King Pul of Assyria (also known aso King Tiglath-pileser of Assyria), took them prisoner and brought the descendants of Reuben, the descendants of Gad, and the half-tribe of Manasseh to Halah, Habor, Hara, and to the Gozan River, where they remain to this day.
 
-
-
-[1](One of) Shammai’s descendants
-
-
-
-1Here is a record ofa the descendants of Reuben, Israel’s firstborn. (He was the firstborn, but because he defiled his father’s marriage bed, his birthright was transferred to the descendants of Israel’s son Joseph. As a result, Reuben is not enrolled in the genealogy according to the birthright. 2Even though Judah became prominent among his relatives—that is, the Commander-in-chiefb will be his descendant—nevertheless the right of the firstborn went to Joseph.)
-
-3The descendants of Reuben, Israel’s firstborn, included Hanoch, Pallu, Hezron, and Carmi.
-
-4Joel’s descendants were his son Shemaiah, his son Gog, his son Shimei, 5his son Micah, his son Reaiah, his son Baal, 6and his son Beerah, whom King Tiglath-pileser of Assyria carried away into exile, and who was a governor of the descendants of Reuben.
-
-7His relatives, listed by families when the genealogy was enrolled according to their generations, includedc the chief, Jeiel, Zechariah, 8and Azaz’s son Bela, grandson of Shema, and great-grandson of Joel, who lived in Aroer, near Nebo and Baal-meon. 9He also lived eastward as far as the entrance to the wilderness this side of the Euphrates River,d because their cattle had increased in the territory of Gilead. 10During the reigne of Saul they declared war on the Hagrites, who fell in battle by their hand. They lived in their tents throughout all of east Gilead.
